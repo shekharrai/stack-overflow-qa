@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>42383857-javafx-live-time-and-date-poc</module>
+        <module>59432835-javafx-smooth-window-dragging</module>
     </modules>
 
     <properties>
